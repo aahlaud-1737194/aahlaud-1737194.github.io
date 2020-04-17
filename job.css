@@ -1,0 +1,31 @@
+
+header{
+    text-shadow: 2px 2px #ff0000;
+
+  }
+
+  h2 {
+    text-decoration: underline;
+text-align: center;
+font-size: 50px;
+font-family: 'Courier New', Courier, monospace;
+font-style: italic;
+text-decoration-color: royalblue;
+color: lightseagreen;
+background-color: silver;
+}
+
+   body {background-color: pink;}
+
+   fieldset{
+       width: 500px;
+       margin-left: auto;
+       margin-right: auto;
+       margin-bottom: 10px;
+       border: double 5px red;
+       float: center;
+       padding-bottom: 5px;
+       text-align: center;
+
+   }
+
